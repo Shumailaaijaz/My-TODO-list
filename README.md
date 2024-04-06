@@ -12,7 +12,7 @@ Run the Application: Execute the application using the command:
 css
 Copy code
 node main.js
-Perform Conversion: Follow the on-screen instructions to convert currencies effortlessly.
+Perform Conversion: Follow the on-screen instructions to create list effortlessly.
 
 FEATURES:
 
